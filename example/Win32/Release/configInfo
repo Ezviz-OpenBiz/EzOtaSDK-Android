@@ -1,0 +1,11 @@
+{
+	"dasHttpPort":443,
+	"dasHttpHost":"test12-devapi.ys7.com",
+	"deviceMac":"3C:05:82:12:34:56",
+	"devVersion":"v1.1.0 220915",
+	"productLicense":{
+		"productKey":"TEST_OTA_OPEN",
+		"deviceName":"test1-deviceName",
+		"deviceLicense":"FM2G692TtBhT4byQy3zmD3"
+	}
+}
